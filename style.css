@@ -26,7 +26,3 @@ nav a {
   width: 200px;
 }
 
-// script.js
-function addToCart() {
-  alert("Item added to cart!");
-} 
